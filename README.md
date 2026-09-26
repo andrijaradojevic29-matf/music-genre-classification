@@ -5,7 +5,6 @@ Tema: **Klasifikacija muzičkih žanrova**
 Članovi tima:
 
 - [Andrija Radojević] [154/2022]
-- [Matej Nikolić] [73/2022]
 
 ## Tehnikalije
 
